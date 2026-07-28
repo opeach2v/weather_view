@@ -7,9 +7,11 @@ import { useLanguage } from "../context/languageContext";
 import { messages } from "../lib/messages";
 
 export default function DailyWeatherModal({
+    cityName,
     daily,
     onClose,
 }: {
+    cityName: string;
     daily: DailyWeather;
     onClose: () => void;
 }) {
@@ -42,6 +44,9 @@ export default function DailyWeatherModal({
                 "
                 onClick={(e) => e.stopPropagation()}
             >
+                <div className="text-xl font-bold ml-2 mb-2">
+                    {cityName} {t.dailyWeather}
+                </div>
                 <DailyTable data={dailyRowData} />
 
                 <button

@@ -8,6 +8,7 @@ export default {
         daegu: "대구",
         cheongju: "청주",
     } satisfies Record<CityId, string>,
+    dailyWeather: "주간 예보",
     date: "날짜",
     weather: "날씨",
     max: "최고 기온",

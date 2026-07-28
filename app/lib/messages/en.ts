@@ -8,6 +8,7 @@ export default {
         daegu: "Daegu",
         cheongju: "Cheongju",
     } satisfies Record<CityId, string>,
+    dailyWeather: "Weekly Forecast",
     date: "Date",
     weather: "Weather",
     max: "Max Temp",

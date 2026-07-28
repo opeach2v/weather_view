@@ -73,7 +73,11 @@ export default function WeatherCard({
                 </div>
             </article>
             {isOpen && (
-                <WeatherModal daily={daily} onClose={() => setIsOpen(false)} />
+                <WeatherModal
+                    cityName={t.cities[city.id]}
+                    daily={daily}
+                    onClose={() => setIsOpen(false)}
+                />
             )}
         </>
     );
