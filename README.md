@@ -49,7 +49,7 @@ git clone https://github.com/opeach2v/weather_view.git
 npm install
 ```
 
-###개발 서버 실행
+### 개발 서버 실행
 
 ```bash
 npm run dev
@@ -64,7 +64,13 @@ npm start
 
 ---
 
-## 2. 프로젝트 구조 및 설계 의도
+## 2. UI 설계
+
+구현 전 Figma를 활용하여 전체적인 화면 구성과 컴포넌트 배치를 설계했습니다.
+
+---
+
+## 3. 프로젝트 구조 및 설계 의도
 
 Next.js App Router 구조를 기반으로 역할에 따라 컴포넌트, 상태 관리, 데이터 관련 로직을 분리했습니다.
 또, Server Component에서는 API 데이터 요청을 담당하고, Client Component에서는 사용자 인터랙션(모달, 테마, 언어 변경)을 담당하도록 했습니다.
@@ -143,7 +149,7 @@ app
 
 ---
 
-## 3. 추가 구현 기능
+## 4. 추가 구현 기능
 
 ### 다크 모드
 
@@ -178,7 +184,7 @@ messages[language]
 
 ---
 
-## 4. 배포
+## 5. 배포
 
 Vercel을 사용하여 배포했습니다.
 
