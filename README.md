@@ -224,13 +224,13 @@ Production Deploy
 
 - 기능에 대한 동작 재확인
 
-<img width="790" height="560" alt="image" src="https://github.com/user-attachments/assets/870cecd7-84be-405e-96e7-d6e9cc7b4ac6" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/870cecd7-84be-405e-96e7-d6e9cc7b4ac6" />
 
 - type 파일 분리 고민
 
-<img width="812" height="755" alt="image" src="https://github.com/user-attachments/assets/add108fd-e630-4f64-b9b1-18b7b60e2d7c" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/add108fd-e630-4f64-b9b1-18b7b60e2d7c" />
 
 - 폰트 위치 고민
 
-<img width="821" height="471" alt="image" src="https://github.com/user-attachments/assets/d3abc19f-548d-4aa7-aa41-45c8aaee620d" />
-<img width="796" height="281" alt="image" src="https://github.com/user-attachments/assets/fffd5fa2-b5c3-42ba-86fa-df6f9d1c39af" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d3abc19f-548d-4aa7-aa41-45c8aaee620d" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/fffd5fa2-b5c3-42ba-86fa-df6f9d1c39af" />
