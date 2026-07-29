@@ -226,10 +226,12 @@ Production Deploy
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/870cecd7-84be-405e-96e7-d6e9cc7b4ac6" />
 <br>
+
 - type 파일 분리 고민
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/add108fd-e630-4f64-b9b1-18b7b60e2d7c" />
 <br>
+
 - 폰트 위치 고민
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/d3abc19f-548d-4aa7-aa41-45c8aaee620d" />
