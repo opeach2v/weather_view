@@ -204,3 +204,13 @@ Production Deploy
 ### Vercel 배포 링크
 
 > https://weather-view-siyn.vercel.app/
+
+---
+
+## 6. AI 도구 사용
+ChatGPT를 사용했습니다.
+
+사용해봤지만 헷갈리는 기능들은 물어보고,
+<img width="790" height="560" alt="image" src="https://github.com/user-attachments/assets/870cecd7-84be-405e-96e7-d6e9cc7b4ac6" />
+
+
