@@ -65,11 +65,13 @@ npm start
 ---
 
 ## 2. UI 설계
+
 구현 전 Figma를 활용하여 전체적인 화면 구성과 컴포넌트 배치를 설계했습니다.
 
 <img width="1091" height="699" alt="스크린샷 2026-07-29 032221" src="https://github.com/user-attachments/assets/015ad498-e548-4f65-89cc-6d391ba492fd" />
 
 ### 실제 페이지
+
 <img width="952" height="525" alt="image" src="https://github.com/user-attachments/assets/c1dc6aa1-6bcb-480d-83f9-f89d5789099a" />
 
 ---
@@ -211,6 +213,7 @@ Production Deploy
 ---
 
 ## 6. ChatGPT 활용
+
 구현 과정에서 이해가 부족했던 기능이나 프로젝트 구조에 대한 고민이 있을 때 ChatGPT를 참고했습니다.
 
 - 사용해 본 기능 중 동작 방식이 헷갈리는 부분의 개념 확인
@@ -218,13 +221,16 @@ Production Deploy
 - 컴포넌트 분리 및 상태 관리 방식에 대한 방향성 확인
 
 참고한 내용을 그대로 적용하기보다 프로젝트 구조에 맞게 수정하여 적용했습니다.
+
+- 기능에 대한 동작 재확인
+
 <img width="790" height="560" alt="image" src="https://github.com/user-attachments/assets/870cecd7-84be-405e-96e7-d6e9cc7b4ac6" />
 
-~
+- type 파일 분리 고민
+
 <img width="812" height="755" alt="image" src="https://github.com/user-attachments/assets/add108fd-e630-4f64-b9b1-18b7b60e2d7c" />
 
-~폰트 위치 고민
+- 폰트 위치 고민
+
 <img width="821" height="471" alt="image" src="https://github.com/user-attachments/assets/d3abc19f-548d-4aa7-aa41-45c8aaee620d" />
 <img width="796" height="281" alt="image" src="https://github.com/user-attachments/assets/fffd5fa2-b5c3-42ba-86fa-df6f9d1c39af" />
-
-
