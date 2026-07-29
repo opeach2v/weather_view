@@ -67,6 +67,7 @@ npm start
 ## 2. UI 설계
 
 구현 전 Figma를 활용하여 전체적인 화면 구성과 컴포넌트 배치를 설계했습니다.
+<img width="1091" height="699" alt="스크린샷 2026-07-29 032221" src="https://github.com/user-attachments/assets/015ad498-e548-4f65-89cc-6d391ba492fd" />
 
 ---
 
