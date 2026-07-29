@@ -27,27 +27,19 @@ export default function DailyWeatherModal({
 
     return (
         <div
-            className="fixed inset-0 flex items-center justify-center bg-black/40"
+            className="fixed inset-0 flex items-center justify-center bg-black/40 z-50 p-4"
             onClick={onClose}
         >
             <div
-                className="
-                    bg-white
-                    dark:bg-[#272727]
-                    rounded-xl
-                    p-8
-                    w-100
-                    md:w-160
-                    lg:w-200
-                    xl:w-260
-                    shadow-lg
-                "
+                className="bg-white dark:bg-[#272727] rounded-xl flex flex-col h-[80vh] p-8 w-100 md:w-160 lg:w-200 xl:w-260 shadow-lg"
                 onClick={(e) => e.stopPropagation()}
             >
                 <div className="text-xl font-bold ml-2 mb-2">
                     {cityName} {t.dailyWeather}
                 </div>
-                <DailyTable data={dailyRowData} />
+                <div className="flex-1 overflow-y-auto min-h-0">
+                    <DailyTable data={dailyRowData} />
+                </div>
 
                 <button
                     onClick={onClose}
